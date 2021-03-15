@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "AccountName=anjuanjunasxvyqmnzlkpvq;AccountKey=R4TXICPjGFPgraYj0abvZQqP8r3iWJysq0sVSk3tOQvwEaM6qFzHgfe6FNumde1OAcE2zpCwbPi6DrQhY6CrAQ==;EndpointSuffix=core.windows.net;DefaultEndpointsProtocol=https;",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "9c5fed37-69dc-4afd-80d3-926e484288e6",
+    "INFERENCE_ENDPOINT": "http://52.250.57.177:5000",
+    "AZURE_FILE_SHARE_NAME": "anjuna-fileshare",
+    "MODEL_PARENT_DIR": "anjuna"
+  }
+}
